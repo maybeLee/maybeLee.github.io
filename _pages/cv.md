@@ -1,7 +1,6 @@
 ---
 layout: archive
 title: "CV"
-permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
@@ -27,3 +26,4 @@ Experience
   * School of Computing, National University of Singapore
 
 For full CV please visit [PDF_Version](https://maybelee.github.io/files/CV.pdf)
+
