@@ -193,6 +193,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  memories:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -250,6 +253,16 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+  # _memories
+  - scope:
+      path: ""
+      type: memories
+    values:
+      layout: single
+      author_profile: true
+      share: false
+      comment: true
+
 
 # Sass/SCSS
 sass:
