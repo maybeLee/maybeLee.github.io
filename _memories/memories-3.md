@@ -1,6 +1,6 @@
 ---
 title: "SICA @ HUST"
-excerpt: "SICA night <br/><img src='/images/Activity-Images/SICA-Night.png' style='width:50%'>"
+excerpt: "SICA night <br/><img src='/images/Activity-Images/SICA-Night.png' style='width:75%'>"
 collection: memories
 ---
 
