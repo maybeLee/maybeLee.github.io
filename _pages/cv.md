@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
+{% include base_path %}
+
 Education
 ======
 * B.S. in the school of AI and Automation, Huazhong University of Science and Technology, 2020
@@ -24,5 +26,5 @@ Experience
 * Summer 2018: Summer Workshop on 2D Video Game Development
   * School of Computing, National University of Singapore
 
-For full CV please visit [PDF_Version](https://maybelee.github.io/files/CV.pdf)
+For full CV please visit <u><a href="https://maybelee.github.io/files/CV.pdf">PDF_Version</a>.</u>
 
