@@ -1,6 +1,6 @@
 ---
 title: "Volunteer teacher"
-excerpt: "Volunteer teacher in a primary school<br/><img src='/images/Activity-Images/Volunteer-Teacher.png'>"
+excerpt: "Volunteer teacher in a primary school<br/><img src='/images/Activity-Images/Volunteer-Teacher.png' style='width:50%'>"
 collection: memories
 ---
 
