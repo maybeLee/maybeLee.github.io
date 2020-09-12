@@ -1,10 +1,10 @@
 ---
 layout: archive
 title: "CV"
-permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
+  - /cv/
 ---
 
 {% include base_path %}
@@ -26,5 +26,4 @@ Experience
 * Summer 2018: Summer Workshop on 2D Video Game Development
   * School of Computing, National University of Singapore
 
-For full CV please visit <a href="https://maybelee.github.io/files/CV.pdf">PDF_Version</a>.
-
+For full CV please visit [PDF_Version](https://maybelee.github.io/files/CV.pdf)
