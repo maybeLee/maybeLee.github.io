@@ -88,10 +88,10 @@ author:
   name             : "Meiziniu LI"
   avatar           : "Self-Pic.jpg"
 #  bio              : "Your biography for the left-hand sidebar"
-  bio              : "PhD student at Hong Kong University of Science and Technology, working on Software Engineering, Deep Learning Testing"
-  location         : "Room 3663, Academic Building<br>       HKUST, Hong Kong"
+  bio              : "PhD student at Hong Kong University of Science and Technology, working on Software Engineering, Deep Learning Testing <br><br> email: <br>mlick AT connect DOT ust DOT hk"
+  location         : "Room 3663, Academic Building<br> &#8195 HKUST, Hong Kong"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : mlick@connect.ust.hk
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
