@@ -26,5 +26,5 @@ Experience
 * Summer 2018: Summer Workshop on 2D Video Game Development
   * School of Computing, National University of Singapore
 
-For full CV please visit <u><a href="https://maybelee.github.io/files/CV.pdf">PDF_Version</a>.</u>
+For full CV please visit <a href="https://maybelee.github.io/files/CV.pdf">PDF_Version</a>.
 
