@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-# title                    : "Your Name / Site Title"
+title                    : "Your Name / Site Title"
 title                    : "Meiziniu Li (李梅子牛)"
 #title_separator          : "-"
 # name                     : &name "Your Name"
