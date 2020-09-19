@@ -7,8 +7,6 @@ redirect_from:
   - /cv/
 ---
 
-{% include base_path %}
-
 Education
 ======
 * B.S. in the school of AI and Automation, Huazhong University of Science and Technology, 2020
