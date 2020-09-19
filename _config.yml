@@ -8,8 +8,8 @@
 # Site Settings
 locale                   : "en-US"
 # title                    : "Your Name / Site Title"
-title                    : "Meiziniu LI's Homepage"
-title_separator          : "-"
+title                    : "Welcome to my homepage!"
+#title_separator          : "-"
 # name                     : &name "Your Name"
 name                     : &name "Meiziniu LI"
 # description              : &description "personal description"
