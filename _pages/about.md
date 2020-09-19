@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "Welcome to Meiziniu Li's homepage"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
