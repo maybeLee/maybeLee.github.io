@@ -12,6 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in the school of AI and Automation, Huazhong University of Science and Technology, 2020
+  * Topic: Weakly supervised temporal action localization (Excellent UG Thesis Hornor)
 * Ph.D in Computer Science and Engineering, Hong Kong University of Science and Technology (In Progress, start from 2020 Fall)
 
 Experience
@@ -25,5 +26,3 @@ Experience
 
 * Summer 2018: Summer Workshop on 2D Video Game Development
   * School of Computing, National University of Singapore
-
-For full CV please visit [PDF_Version](https://maybelee.github.io/files/CV.pdf)
